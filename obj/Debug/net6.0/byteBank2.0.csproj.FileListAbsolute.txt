@@ -1,0 +1,15 @@
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\bin\Debug\net6.0\byteBank2.0.exe
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\bin\Debug\net6.0\byteBank2.0.deps.json
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\bin\Debug\net6.0\byteBank2.0.runtimeconfig.json
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\bin\Debug\net6.0\byteBank2.0.dll
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\bin\Debug\net6.0\byteBank2.0.pdb
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.csproj.AssemblyReference.cache
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.AssemblyInfoInputs.cache
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.AssemblyInfo.cs
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.csproj.CoreCompileInputs.cache
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.dll
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\refint\byteBank2.0.dll
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.pdb
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\byteBank2.0.genruntimeconfig.cache
+C:\Curso do C#\Alura\byteBank2.0\byteBank2.0\obj\Debug\net6.0\ref\byteBank2.0.dll
